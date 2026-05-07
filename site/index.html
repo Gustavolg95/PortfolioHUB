@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gustavo Lisboa Gonçalves - Portfólio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        .hero {
+            background: linear-gradient(135deg, #1E2761 0%, #028090 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+        }
+        
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        
+        .hero p {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: #02C39A;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        
+        .btn:hover {
+            background: #00A896;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+        
+        h2 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: #1E2761;
+        }
+        
+        .skills {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .skill-card {
+            background: #f5f5f5;
+            padding: 2rem;
+            border-radius: 10px;
+            border-left: 5px solid #028090;
+        }
+        
+        .skill-card h3 {
+            color: #1E2761;
+            margin-bottom: 1rem;
+        }
+        
+        footer {
+            background: #1E2761;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero">
+        <div>
+            <h1>Gustavo Lisboa Gonçalves</h1>
+            <p>Ciência de Dados | Machine Learning | Desenvolvimento</p>
+            <a href="#sobre" class="btn">Conheça meu trabalho</a>
+        </div>
+    </section>
+
+    <section id="sobre" class="container">
+        <h2>Sobre Mim</h2>
+        <p>
+            Estudante de Ciência de Dados e Machine Learning no CEUB, 
+            apaixonado por tecnologia, música e viagens. Busco minha 
+            primeira oportunidade profissional para aplicar conhecimentos 
+            em projetos reais.
+        </p>
+    </section>
+
+    <section class="container">
+        <h2>Habilidades</h2>
+        <div class="skills">
+            <div class="skill-card">
+                <h3>🔬 Ciência de Dados</h3>
+                <p>Python, Machine Learning, Estatística Aplicada</p>
+            </div>
+            <div class="skill-card">
+                <h3>🔄 Versionamento</h3>
+                <p>Git, GitHub, Controle de Versões</p>
+            </div>
+            <div class="skill-card">
+                <h3>💻 Desenvolvimento Web</h3>
+                <p>HTML5, CSS3, JavaScript</p>
+            </div>
+            <div class="skill-card">
+                <h3>🔒 Segurança & IA</h3>
+                <p>Cibersegurança, Automação, Agentes de IA</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Gustavo Lisboa Gonçalves</p>
+        <p>Email: lisboag.gustavo@gmail.com | GitHub: Gustavolg95</p>
+    </footer>
+</body>
+</html>
