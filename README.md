@@ -69,30 +69,13 @@ Machine Learning.
 ## 📁 Estrutura do Repositório
 
 PortfolioHUB/
-
-
 │
-
-
-├── apresentacoes/            # Slides e apresentações
-
-
-├── certificados/             # Certificados digitais
-
-
-├── documentos/               # Currículos e documentos
-
-
-├── projetos/                 # Projetos acadêmicos e pessoais
-
-
-├── site/                     # Website do portfólio
-
-
-│   └── index.html
-
-
-└── README.md                 # Documentação principal
+├── apresentacoes/            	# Slides e apresentações
+├── certificados/            	# Certificados digitais
+├── documentos/               	# Currículos e documentos
+├── projetos/                		# Projetos acadêmicos e pessoais
+├── site/                     		# Website do portfólio		                                                                     		│   └── index.html
+└── README.md                	# Documentação principal
 
 ---
 
