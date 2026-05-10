@@ -69,13 +69,29 @@ Machine Learning.
 ## 📁 Estrutura do Repositório
 
 PortfolioHUB/
+
+
 │
+
+
 ├── apresentacoes/            # Slides e apresentações
+
+
 ├── certificados/             # Certificados digitais
+
+
 ├── documentos/               # Currículos e documentos
+
+
 ├── projetos/                 # Projetos acadêmicos e pessoais
+
+
 ├── site/                     # Website do portfólio
+
+
 │   └── index.html
+
+
 └── README.md                 # Documentação principal
 
 ---
@@ -85,7 +101,6 @@ PortfolioHUB/
 **Website:** https://gustavolg95.github.io/PortfolioHUB/site/
 
 ---
-
 
 ## 🎯 Objetivo Profissional
 
@@ -101,12 +116,6 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 - 💪 Academia
 - 🎬 Filmes de ação e aventura
 - ✈️ Viagens
-
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavolg95&show_icons=true&theme=radical)
 
 ---
 
