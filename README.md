@@ -69,8 +69,6 @@ Machine Learning.
 ## 📁 Estrutura do Repositório
 
 ```
-## 📁 Estrutura do Repositório
-
 PortfolioHUB/
 │
 ├── apresentações/                                        # Slides e apresentações
