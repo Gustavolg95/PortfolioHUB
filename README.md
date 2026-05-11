@@ -69,14 +69,30 @@ Machine Learning.
 ## 📁 Estrutura do Repositório
 
 ```
+## 📁 Estrutura do Repositório
+
 PortfolioHUB/
 │
-├── apresentacoes/            	# Slides e apresentações
-├── certificados/            	# Certificados digitais
-├── documentos/               	# Currículos e documentos
-├── projetos/                		# Projetos acadêmicos e pessoais
-├── site/                     		# Website do portfólio		                                                                     		│   └── index.html
-└── README.md                	# Documentação principal
+├── apresentações/                                        # Slides e apresentações
+│   ├── PortfólioHUB - apresentação (1).pptx
+│   └── README.md
+├── certificados/                                         # Certificados digitais
+│   ├── Certificado Cisco Cybersecurity.pdf
+│   ├── Certificado Git e GitHub.pdf
+│   ├── Certificado HTML e CSS Alura.pdf
+│   ├── Certificado Imersão Agentes de IA (n8n).pdf
+│   ├── Certificado Imersão Alura.pdf
+│   ├── Introduction_to_Cybersecurity_certificate_pelo_CEUB.pdf
+│   └── README.md
+├── documentos/                                           # Currículos e documentos
+│   ├── Currículo Profissional.docx
+│   └── README.md
+├── projetos/                                             # Projetos acadêmicos e pessoais
+├── site/                                                 # Website do portfólio
+│   ├── index.html
+│   └── README.md
+├── index.html                                            # Página raiz
+└── README.md                                             # Documentação principal
 ```
 
 ---
