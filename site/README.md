@@ -30,5 +30,5 @@ https://sites.google.com/d/18dmeJuOvdWNX-s4UG2H9Rv0rm6iDcFxr/p/1XCKtICHxRz2rO_0U
 **Gustavo Lisboa Gonçalves**
 
 - **Email:** lisboag.gustavo@gmail.com
-- **LinkedIn:** [Gustavo Lisboa Gonçalves](https://linkedin.com/in/gustavo-lisboa)
+- **LinkedIn:** [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/)
 - **GitHub:** [@Gustavolg9](https://github.com/Gustavolg95)
