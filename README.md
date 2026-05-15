@@ -101,9 +101,7 @@ PortfolioHUB/
 
 ## 🌐 Acesso ao Portfólio
 
-**Website:** https://gustavolg95.github.io/PortfolioHUB/site/
-
-https://sites.google.com/d/18dmeJuOvdWNX-s4UG2H9Rv0rm6iDcFxr/p/1XCKtICHxRz2rO_0UuN6Lb9ijzlJAIlpE/edit
+**Website:** [PortfólioHUB Site](https://gustavolg95.github.io/PortfolioHUB/site/)
 
 ---
 
