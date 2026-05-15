@@ -9,13 +9,14 @@ Machine Learning.
 ---
 
 ## 👤 Sobre Mim
-
-**Nome:** Gustavo Lisboa Gonçalves
-**Curso:** Ciência de Dados e Machine Learning
-**Instituição:** Centro Universitário de Brasília (CEUB)
-**Email:** lisboag.gustavo@gmail.com
-**LinkedIn:** Gustavo Lisboa Gonçalves
-**GitHub:** [@Gustavolg95](https://github.com/Gustavolg95)
+| | |
+|---|---|
+| **Nome:** | Gustavo Lisboa Gonçalves |
+| **Curso:** | Ciência de Dados e Machine Learning |
+| **Instituição:** | Centro Universitário de Brasília (CEUB) |
+| **Email:** | lisboag.gustavo@gmail.com |
+| **LinkedIn:** | [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/) |
+| **GitHub:** | [@Gustavolg95](https://github.com/Gustavolg95) |
 
 ---
 
@@ -99,6 +100,8 @@ PortfolioHUB/
 
 **Website:** https://gustavolg95.github.io/PortfolioHUB/site/
 
+https://sites.google.com/d/18dmeJuOvdWNX-s4UG2H9Rv0rm6iDcFxr/p/1XCKtICHxRz2rO_0UuN6Lb9ijzlJAIlpE/edit
+
 ---
 
 ## 🎯 Objetivo Profissional
@@ -121,7 +124,7 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 ## 📞 Contato
 
 - **Email:** lisboag.gustavo@gmail.com
-- **LinkedIn:** [Gustavo Lisboa Gonçalves](https://linkedin.com/in/gustavo-lisboa)
+- **LinkedIn:** [Gustavo Lisboa Gonçalves]([https://linkedin.com/in/gustavo-lisboa](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/))
 - **GitHub:** [@Gustavolg95](https://github.com/Gustavolg95)
 - **Localização:** Formosa, Goiás, Brasil
 
