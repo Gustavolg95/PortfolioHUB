@@ -127,7 +127,7 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 ## 📞 Contato
 
 - **Email:** lisboag.gustavo@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/)
+- **LinkedIn:** [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/)
 - **GitHub:** [@Gustavolg95](https://github.com/Gustavolg95)
 - **Localização:** Formosa, Goiás, Brasil
 
