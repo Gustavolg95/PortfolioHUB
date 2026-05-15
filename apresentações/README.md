@@ -1,10 +1,12 @@
 # 📊 Apresentações
 
-Esta pasta contém apresentações e slides profissionais.
+---
 
-## Conteúdo
+## 📁Conteúdo
 
-Slides apresentando sobre mim, algumas habilidades, projetos...
+Contém os slides de apresentação profissional de Gustavo Lisboa Gonçalves, desenvolvidos para apresentar um pouco sobre sua história, trajetória, habilidades e projetos na área de Ciência de Dados e Machine Learning.
+
+---
 
 ### Apresentação de Habilidades
 
