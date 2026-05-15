@@ -15,7 +15,7 @@ Machine Learning.
 | **Curso:** | Ciência de Dados e Machine Learning |
 | **Instituição:** | Centro Universitário de Brasília (CEUB) |
 | **Email:** | lisboag.gustavo@gmail.com |
-| **LinkedIn:** | Gustavo Lisboa Gonçalves |
+| **LinkedIn:** | [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/) |
 | **GitHub:** | [@Gustavolg95](https://github.com/Gustavolg95) |
 
 ---
@@ -124,7 +124,7 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 ## 📞 Contato
 
 - **Email:** lisboag.gustavo@gmail.com
-- **LinkedIn:** [Gustavo Lisboa Gonçalves](https://linkedin.com/in/gustavo-lisboa)
+- **LinkedIn:** [Gustavo Lisboa Gonçalves]([https://linkedin.com/in/gustavo-lisboa](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/))
 - **GitHub:** [@Gustavolg95](https://github.com/Gustavolg95)
 - **Localização:** Formosa, Goiás, Brasil
 
