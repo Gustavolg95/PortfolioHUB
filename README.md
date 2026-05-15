@@ -9,14 +9,15 @@ Machine Learning.
 ---
 
 ## 👤 Sobre Mim
-| | |
-|---|---|
-| **Nome:** | Gustavo Lisboa Gonçalves |
-| **Curso:** | Ciência de Dados e Machine Learning |
-| **Instituição:** | Centro Universitário de Brasília (CEUB) |
-| **Email:** | lisboag.gustavo@gmail.com |
-| **LinkedIn:** | [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/) |
-| **GitHub:** | [@Gustavolg95](https://github.com/Gustavolg95) |
+
+|                          |                                                                                                |
+| ------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Nome:**          | Gustavo Lisboa Gonçalves                                                                      |
+| **Curso:**         | Ciência de Dados e Machine Learning                                                           |
+| **Instituição:** | Centro Universitário de Brasília (CEUB)                                                      |
+| **Email:**         | lisboag.gustavo@gmail.com                                                                      |
+| **LinkedIn:**      | [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/) |
+| **GitHub:**        | [@Gustavolg95](https://github.com/Gustavolg95)                                                    |
 
 ---
 
@@ -33,6 +34,7 @@ Machine Learning.
 - ✅ Introdução à Cibersegurança - CEUB via Cisco (Mar/2026)
 - ✅ Git + GitHub Essencial para Profissionais de Dados - Udemy (Mar/2026)
 - ✅ Imersão Front-End com IA - Alura (Abr/2026)
+- ✅  Inteligência Artificial Além do Chat - ENAP (Mai/2026)
 
 ---
 
@@ -77,6 +79,7 @@ PortfolioHUB/
 │   └── README.md
 ├── certificados/                                         # Certificados digitais
 │   ├── Certificado Cisco Cybersecurity.pdf
+│   ├── Certificado ENAP.pdf
 │   ├── Certificado Git e GitHub.pdf
 │   ├── Certificado HTML e CSS Alura.pdf
 │   ├── Certificado Imersão Agentes de IA (n8n).pdf
@@ -124,7 +127,7 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 ## 📞 Contato
 
 - **Email:** lisboag.gustavo@gmail.com
-- **LinkedIn:** [Gustavo Lisboa Gonçalves]([https://linkedin.com/in/gustavo-lisboa](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/))
+- **LinkedIn:** [https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/)
 - **GitHub:** [@Gustavolg95](https://github.com/Gustavolg95)
 - **Localização:** Formosa, Goiás, Brasil
 
