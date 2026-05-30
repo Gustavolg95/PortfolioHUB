@@ -34,7 +34,8 @@ Machine Learning.
 - ✅ Introdução à Cibersegurança - CEUB via Cisco (Mar/2026)
 - ✅ Git + GitHub Essencial para Profissionais de Dados - Udemy (Mar/2026)
 - ✅ Imersão Front-End com IA - Alura (Abr/2026)
-- ✅  Inteligência Artificial Além do Chat - ENAP (Mai/2026)
+- ✅ HTML e CSS: Praticando HTML/CSS - Alura (Abr/2026)
+- ✅  IA Além do Chat: Engenharia e Soluções na Gestão Pública - ENAP (Mai/2026)
 
 ---
 
@@ -93,8 +94,10 @@ PortfolioHUB/
 ├── site/                                                 # Website do portfólio
 │   ├── index.html
 │   └── README.md
+├── .gitignore
 ├── index.html                                            # Página raiz
-└── README.md                                             # Documentação principal
+├── README.md                                             # Documentação principal
+└── SECURITY.md
 ```
 
 ---
