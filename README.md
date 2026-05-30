@@ -122,6 +122,30 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 
 ---
 
+## 🔒 Segurança
+
+Este repositório segue as melhores práticas de segurança:
+
+- ✅ Autenticação em dois fatores (2FA) ativada na conta
+- ✅ Arquivo `.gitignore` configurado para proteger dados sensíveis
+- ✅ Nenhum dado sensível (senhas, tokens, chaves de API) no repositório
+- ✅ Branch `main` como branch principal protegida
+- ✅ Repositório público com controle de acesso adequado
+
+---
+
+## 🤖 Apoio de IA
+
+Este projeto foi desenvolvido com apoio do **Gemini (Google)** como ferramenta de IA assistente, auxiliando em:
+
+- Planejamento da estrutura do repositório
+- Geração do código HTML/CSS do site
+- Criação da documentação técnica
+- Implementação de boas práticas de segurança
+- Orientações sobre versionamento com Git
+
+---
+
 ## 📞 Contato
 
 - **Email:** lisboag.gustavo@gmail.com
@@ -131,4 +155,4 @@ conhecimentos técnicos e contribuir com projetos inovadores.
 
 ---
 
-*Última atualização: Maio de 2026*
+*Última atualização: Maio/Junho de 2026*
