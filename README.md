@@ -1,5 +1,9 @@
 # 🎯 PortfolioHUB
 
+---
+
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-02C39A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Versão-1.0-6B48FF?style=for-the-badge" />
@@ -11,6 +15,7 @@
     <img src="https://img.shields.io/badge/🌐_Ver_Site_Online-Acessar-6B48FF?style=for-the-badge" />
   </a>
 </div>
+
 ---
 
 ## 📌 O que é o PortfolioHUB?
@@ -43,31 +48,47 @@ Apresentar de forma organizada e profissional:
 
 ### • Frontend
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### • Versionamento e Hospedagem
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
 
 ### • Ferramentas Google
 
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=flat-square&logo=google-slides&logoColor=black)
-![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=flat&logo=google-slides&logoColor=black)
+
+
+![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat&logo=google&logoColor=white)
 
 ### • IA e Automação
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
 ### • Segurança
 
-![2FA](https://img.shields.io/badge/2FA-Ativo-02C39A?style=for-the-badge&logo=authy&logoColor=white)
-![.gitignore](https://img.shields.io/badge/.gitignore-Configurado-555555?style=flat-square&logo=git&logoColor=white)
+![2FA](https://img.shields.io/badge/2FA-Ativo-02C39A?style=flat&logo=authy&logoColor=white)
+
+
+![.gitignore](https://img.shields.io/badge/.gitignore-Configurado-555555?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -233,7 +254,7 @@ Este repositório adota as seguintes práticas de segurança:
 * ✅ Autenticação em dois fatores (2FA) ativada na conta GitHub
 * ✅ Arquivo `.gitignore` configurado para proteger dados sensíveis
 * ✅ Nenhum token, senha ou chave de API no código
-* ✅ Política de segurança documentada em [`SECURITY.md`](https://claude.ai/chat/SECURITY.md)
+* ✅ Política de segurança documentada em [`SECURITY.md`]()
 * ✅ Dependabot Alerts habilitado
 
 ---
@@ -265,7 +286,11 @@ Busco minha primeira oportunidade profissional na área de  **Ciência de Dados*
 *Bootcamp I — CEUB 2026*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gustavolg95-181717?style=flat-square&logo=github)](https://github.com/Gustavolg95)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Lisboa-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/)
+
+
 [![Email](https://img.shields.io/badge/Email-lisboag.gustavo@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:lisboag.gustavo@gmail.com)
 
 </div>
