@@ -1,4 +1,4 @@
-# 🎯 PortfolioHUB
+#  PortfolioHUB
 
 ---
 
@@ -18,21 +18,21 @@
 
 ---
 
-## 📌 O que é o PortfolioHUB?
+## O que é o PortfolioHUB?
 
 O **PortfolioHUB** é um portfólio digital profissional centralizado, desenvolvido ao longo do  **Bootcamp I do CEUB** , com o objetivo de reunir em um único repositório toda a trajetória acadêmica, projetos, certificações e habilidades de  **Gustavo Lisboa Gonçalves** , estudante de Ciência de Dados e Machine Learning.
 
 A plataforma integra três camadas complementares:
 
-* 🖥️ **Google Workspace** → site, apresentação de habilidades e currículo
-* 🔧 **GitHub + GitHub Pages** → versionamento do código e hospedagem pública
-* 💼 **LinkedIn** → integração e visibilidade profissional
+* **Google Workspace** → site, apresentação de habilidades e currículo
+* **GitHub + GitHub Pages** → versionamento do código e hospedagem pública
+* **LinkedIn** → integração e visibilidade profissional
 
 > O PortfolioHUB não é apenas um portfólio — é uma demonstração prática de boas práticas de desenvolvimento, versionamento, segurança e documentação técnica.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Apresentar de forma organizada e profissional:
 
@@ -44,7 +44,7 @@ Apresentar de forma organizada e profissional:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### • Frontend
 
@@ -92,26 +92,26 @@ Apresentar de forma organizada e profissional:
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 PortfolioHUB/
 │
-├── 📄 index.html                                  → Redirecionamento para GitHub Pages
-├── 📄 README.md                                   → Documentação principal (você está aqui)
-├── 📄 SECURITY.md                                 → Política de segurança do repositório
-├── 📄 .gitignore                                  → Proteção de arquivos sensíveis
-├── 📄 PlanoImplantacao_PortfolioHUB_GustavoLisboa.docx → Plano de Implantação (Entrega Final)
+├── index.html                                  → Redirecionamento para GitHub Pages
+├── README.md                                   → Documentação principal (você está aqui)
+├── SECURITY.md                                 → Política de segurança do repositório
+├── .gitignore                                  → Proteção de arquivos sensíveis
+├── PlanoImplantacao_PortfolioHUB_GustavoLisboa.docx → Plano de Implantação (Entrega Final)
 │
-├── 🌐 site/
+├── site/
 │   ├── index.html             → Website do portfólio
 │   └── README.md
 │
-├── 📋 documentos/
+├── documentos/
 │   ├── Currículo Profissional.docx
 │   └── README.md
 │
-├── 🎓 certificados/
+├── certificados/
 │   ├── Certificado_Cisco_Cybersecurity.pdf
 │   ├── Certificado_Git_e_GitHub.pdf
 │   ├── Certificado_HTML_e_CSS_Alura.pdf
@@ -121,18 +121,18 @@ PortfolioHUB/
 │   ├── Introduction_to_Cybersecurity_certificate_CEUB.pdf
 │   └── README.md
 │
-├── 📊 apresentações/
+├── apresentações/
 │   ├── PortfolioHUB_Apresentacao.pptx
 │   └── README.md
 │
-└── 💻 projetos/
+└── projetos/
     ├── README.md
     └── (projetos adicionados conforme desenvolvidos)
 ```
 
 ---
 
-## 🚀 Como Rodar o Projeto Localmente
+## Como Rodar o Projeto Localmente
 
 Siga os passos abaixo para clonar e visualizar o portfólio na sua máquina:
 
@@ -212,28 +212,27 @@ cd projetos/        # Projetos acadêmicos
 
 ---
 
-## 🌐 Acesso Online
+## Acesso Online
 
 | Recurso               | Link                                                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------- |
-| 🌐 Site do Portfólio | [gustavolg95.github.io/PortfolioHUB/site/](https://gustavolg95.github.io/PortfolioHUB/site/)      |
-| 💼 LinkedIn           | [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/) |
-| 💻 GitHub             | [@Gustavolg95](https://github.com/Gustavolg95)                                                    |
+| Site do Portfólio | [gustavolg95.github.io/PortfolioHUB/site/](https://gustavolg95.github.io/PortfolioHUB/site/)      |
+| LinkedIn           | [Gustavo Lisboa Gonçalves](https://www.linkedin.com/in/gustavo-lisboa-gon%C3%A7alves-b103603ab/) |
+| GitHub             | [@Gustavolg95](https://github.com/Gustavolg95)                                                    |
 
 ---
 
-## 👤 Sobre o Autor
+## Sobre o Autor
 
 **Gustavo Lisboa Gonçalves**
 
-* 🎓 Cursando Ciência de Dados e Machine Learning no CEUB
-* 📍 Formosa, Goiás, Brasil
-* 📧 lisboag.gustavo@gmail.com
-* 🎸 Violonista | 💪 Academia | 🎬 Cinema | ✈️ Viajante
+* Cursando Ciência de Dados e Machine Learning no CEUB
+* Formosa, Goiás, Brasil
+* lisboag.gustavo@gmail.com
 
 ---
 
-## 📜 Certificações
+## Certificações
 
 | Certificação                       | Instituição            | Data     |
 | ------------------------------------ | ------------------------ | -------- |
@@ -247,7 +246,7 @@ cd projetos/        # Projetos acadêmicos
 
 ---
 
-## 🔒 Segurança
+## Segurança
 
 Este repositório adota as seguintes práticas de segurança:
 
@@ -259,7 +258,7 @@ Este repositório adota as seguintes práticas de segurança:
 
 ---
 
-## 🤖 Apoio de IA
+## Apoio de IA
 
 Este projeto foi desenvolvido com apoio do **Gemini (Google)** como ferramenta de IA assistente:
 
@@ -273,7 +272,7 @@ Este projeto foi desenvolvido com apoio do **Gemini (Google)** como ferramenta d
 
 ---
 
-## 🎯 Objetivo Profissional
+## Objetivo Profissional
 
 Busco minha primeira oportunidade profissional na área de  **Ciência de Dados** , **Machine Learning** ou  **Desenvolvimento de Software** , onde possa aplicar conhecimentos técnicos em projetos reais e contribuir com soluções inovadoras.
 
@@ -281,7 +280,6 @@ Busco minha primeira oportunidade profissional na área de  **Ciência de Dados*
 
 <div align="center">
 
-**Desenvolvido com 💙 por Gustavo Lisboa Gonçalves**
 
 *Bootcamp I — CEUB 2026*
 
@@ -297,4 +295,4 @@ Busco minha primeira oportunidade profissional na área de  **Ciência de Dados*
 
 ---
 
-*Última atualização: Maio/Junho de 2026*
+*Última atualização: Agosto de 2026*
